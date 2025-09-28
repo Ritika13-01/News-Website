@@ -60,12 +60,5 @@ Just open `index.html` in your browser.
 <img width="1353" height="591" alt="image" src="https://github.com/user-attachments/assets/39bd9124-e4ac-481d-9c93-c683266b3305" />
 
 
-## 🌟 Future Enhancements
-
-* Add **pagination / infinite scrolling** for more results.
-* Dark mode toggle 🌙.
-* Save favorite articles.
-* Display trending headlines separately.
-
 
 
