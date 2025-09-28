@@ -57,7 +57,8 @@ Just open `index.html` in your browser.
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
+<img width="1353" height="591" alt="image" src="https://github.com/user-attachments/assets/39bd9124-e4ac-481d-9c93-c683266b3305" />
+
 
 ## 🌟 Future Enhancements
 
@@ -66,10 +67,5 @@ Just open `index.html` in your browser.
 * Save favorite articles.
 * Display trending headlines separately.
 
-## 📜 License
 
-This project is licensed under the **MIT License** – feel free to use and modify.
 
----
-
-Made with ❤️ using **JavaScript + NewsAPI**
